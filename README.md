@@ -9,6 +9,6 @@ Porting Svelto Mini Examples to Godot 4.x
 ### Examples 5 - Hello World
 One single engine processing one single entity called from a Godot Node
 
-### Example 6 - Abstract Object Oriented Code
+### Example 6 - Hybrid-OOP
 
 ![gif](https://i.imgur.com/SZRX2bI.gif)
