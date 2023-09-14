@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=3 uid="uid://b2tx23rmpvr37"]
+
+[ext_resource type="Script" path="res://src/Example6-Hybrid-OOP/MainContext.cs" id="1_411nx"]
+
+[node name="Hybrid" type="Node3D"]
+script = ExtResource("1_411nx")
+
+[node name="Camera3D" type="Camera3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 0.951057, 0.309017, 0, -0.309017, 0.951057, 0, 2.795, 14.445)

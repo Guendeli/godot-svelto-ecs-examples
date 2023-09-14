@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://b835m0igpe4up"]
+
+[ext_resource type="Script" path="res://src/Example5-HelloWorld/SveltoInit.cs" id="1_37myj"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Node2D" type="Node2D" parent="."]
+script = ExtResource("1_37myj")
